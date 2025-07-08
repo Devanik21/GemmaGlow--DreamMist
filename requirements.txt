@@ -1,0 +1,11 @@
+streamlit
+google-generativeai
+textblob
+pandas
+plotly
+networkx
+matplotlib
+seaborn
+wordcloud
+Pillow
+numpy
